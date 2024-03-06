@@ -19,4 +19,4 @@ func largestPalindrome() -> Int {
     return largest
 }
 
-print(largestPalindrome(
+print(largestPalindrome())
